@@ -12,17 +12,17 @@ A simple, responsive and interactive website to view, create and delete flashcar
 </ul>
 
 # Project_structure
-flashcard/
-│
-├── src/
-│   ├── components/
-│   │   ├── AddCard.js
-│   │   └── CardList.js
-│   ├── App.js
-│   └── App.css
-├── public/
-├── package.json
-└── README.md
+flashcard/<br>
+│<br>
+├── src/<br>
+│   ├── components/<br>
+│   │   ├── AddCard.js<br>
+│   │   └── CardList.js<br>
+│   ├── App.js<br>
+│   └── App.css<br>
+├── public/<br>
+├── package.json<br>
+└── README.md<br>
 
 # Technologies_used
 - ReactJS
