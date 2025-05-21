@@ -35,7 +35,6 @@ const CardList = ({cards, setCards, currentIndex, setCurrentIndex}) => {
                     <button onClick={handleDelete}>delete</button>
                     <button onClick={handleShow}>{isVisible?"hide":"show"}</button>
                     <button onClick={() => setCurrentIndex((e) => e+1>=cards.length?e:e+1)}>next</button><br></br>
-                    <p className='list' style={{overflow:"scroll"}}></p>
                 </div>
                 )
             }
